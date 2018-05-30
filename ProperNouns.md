@@ -31,21 +31,21 @@
  
  1. BORDER = 边境
     1. 1F Detention
-    2. 1F Server Room
+    2. 1F Server Room = 一楼机房
  2. BARTLETT UNIVERSITY = 巴特雷特大学
  3. BANK = 银行
-    1. 1F Archives
+    1. 1F Archives = 一楼档案室
  4. CHALET = 木屋
-    1. 2F Bedroom Hallway
+    1. 2F Bedroom Hallway = 二楼卧室走廊
  5. CLUBHOUSE = 俱乐部
-    1. 2F Bedroom
+    1. 2F Bedroom = 二楼卧室
  6. COASTLINE = 海岸线
  7. CONSULATE = 领事馆
  8. FAVELA = 贫民窟
  9. HEREFORD BASE= 赫里福基地
  10. HOUSE = 芝加哥豪宅
  11. KAFE = 陀思妥耶夫斯基咖啡馆
-    1. 3F Cigar Lounge
+    1. 3F Cigar Lounge = 三楼雪茄休息室
  12. KANAL = 运河
  13. OREGON = 俄勒冈乡间屋宅
  14. PRESIDENTIAL PLANE = 总统专机
