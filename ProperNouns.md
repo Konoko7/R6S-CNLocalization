@@ -51,9 +51,9 @@
  14. PRESIDENTIAL PLANE = 总统专机
  15. SKYSCRAPER = 摩天大楼
  16. THEME PARK = 主题公园
-    1. 1F Haunted Stairs
+    1. 1F Haunted Stairs = 一楼闹鬼楼梯
  17. TOWER = 塔楼
-    1. 1F Tea Room
+    1. 1F Tea Room = 一楼茶室
  18. VILLA = 别墅
  19. YACHT = 游艇
 
