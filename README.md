@@ -3,7 +3,7 @@
 
 此译制标准由[r6stats.cn](r6stats.cn)提出。
 
-This translation standard was proposed by [r6stats.cn](r6stats.cn.)
+This translation standard was proposed by [r6stats.cn](r6stats.cn).
 
 本文档的目的在于给翻译者一些标准化参考。
 
