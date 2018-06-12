@@ -16,6 +16,7 @@
  10. Plant = 安包次数
  11. Pro League = 职业联赛
  12. Six Invitational = 彩虹六号国际邀请赛
+ 13. Substitute = 替补
  13. Tie Break = 加时赛
  14. Tournament = 锦标赛
  15. % of Rounds Survived (SRV) = 存活率
@@ -182,4 +183,10 @@
  13. Smoke Grenade = 烟雾手榴弹
  14. Stun Grenade = 闪光手榴弹
  15. Yokai = 妖怪
+ 
+ **五、Community玩家社区类**
+ -----------------------
+ 
+ 1. Streamer = 主播
+ 
 
